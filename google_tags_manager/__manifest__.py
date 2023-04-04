@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Copyright 2020 Artem Shurshilov
-# Odoo Proprietary License v1.0
+# Odoo Proprietary License v1.0.
 
 # This software and associated files (the "Software") may only be used (executed,
 # modified, executed after modifications) if you have purchased a valid license
